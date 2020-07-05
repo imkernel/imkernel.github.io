@@ -3,33 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.imkernel.dev/tags/about/</loc>
-    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.imkernel.dev/posts/about/me/</loc>
-    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
+    <loc>https://www.imkernel.dev/about/</loc>
+    <lastmod>2020-07-05T18:50:35+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.imkernel.dev/</loc>
-    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
+    <lastmod>2020-07-05T18:50:35+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.imkernel.dev/tags/me/</loc>
-    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
+    <loc>https://www.imkernel.dev/about/me/</loc>
+    <lastmod>2020-07-05T18:50:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.imkernel.dev/tags/basics/</loc>
+    <lastmod>2020-07-05T17:15:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.imkernel.dev/tags/freebsd/</loc>
+    <lastmod>2020-07-05T17:15:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.imkernel.dev/posts/freebsd/how-to-set-up-staticip-on-freebsd/</loc>
+    <lastmod>2020-07-05T17:15:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.imkernel.dev/tags/networking/</loc>
+    <lastmod>2020-07-05T17:15:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.imkernel.dev/tags/newbie/</loc>
+    <lastmod>2020-07-05T17:15:04+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.imkernel.dev/posts/</loc>
-    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
+    <lastmod>2020-07-05T17:15:04+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.imkernel.dev/tags/staticip/</loc>
+    <lastmod>2020-07-05T17:15:04+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.imkernel.dev/tags/</loc>
-    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
+    <lastmod>2020-07-05T17:15:04+05:30</lastmod>
   </url>
   
   <url>

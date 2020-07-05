@@ -7,26 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alwin Doss&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 05 Jul 2020 18:02:48 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 17:15:04 +0530</lastBuildDate>
     
 	<atom:link href="https://www.imkernel.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>about</title>
-      <link>https://www.imkernel.dev/tags/about/</link>
-      <pubDate>Sun, 05 Jul 2020 18:02:48 +0530</pubDate>
+      <title>basics</title>
+      <link>https://www.imkernel.dev/tags/basics/</link>
+      <pubDate>Sun, 05 Jul 2020 17:15:04 +0530</pubDate>
       
-      <guid>https://www.imkernel.dev/tags/about/</guid>
+      <guid>https://www.imkernel.dev/tags/basics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>me</title>
-      <link>https://www.imkernel.dev/tags/me/</link>
-      <pubDate>Sun, 05 Jul 2020 18:02:48 +0530</pubDate>
+      <title>freebsd</title>
+      <link>https://www.imkernel.dev/tags/freebsd/</link>
+      <pubDate>Sun, 05 Jul 2020 17:15:04 +0530</pubDate>
       
-      <guid>https://www.imkernel.dev/tags/me/</guid>
+      <guid>https://www.imkernel.dev/tags/freebsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>networking</title>
+      <link>https://www.imkernel.dev/tags/networking/</link>
+      <pubDate>Sun, 05 Jul 2020 17:15:04 +0530</pubDate>
+      
+      <guid>https://www.imkernel.dev/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>newbie</title>
+      <link>https://www.imkernel.dev/tags/newbie/</link>
+      <pubDate>Sun, 05 Jul 2020 17:15:04 +0530</pubDate>
+      
+      <guid>https://www.imkernel.dev/tags/newbie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>staticip</title>
+      <link>https://www.imkernel.dev/tags/staticip/</link>
+      <pubDate>Sun, 05 Jul 2020 17:15:04 +0530</pubDate>
+      
+      <guid>https://www.imkernel.dev/tags/staticip/</guid>
       <description></description>
     </item>
     
