@@ -3,28 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.imkernel.dev/</loc>
-    <lastmod>2020-07-04T23:47:53+05:30</lastmod>
+    <loc>https://www.imkernel.dev/tags/about/</loc>
+    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://www.imkernel.dev/posts/my-first-post/</loc>
-    <lastmod>2020-07-04T23:47:53+05:30</lastmod>
+    <loc>https://www.imkernel.dev/posts/about/me/</loc>
+    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.imkernel.dev/</loc>
+    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.imkernel.dev/tags/me/</loc>
+    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.imkernel.dev/posts/</loc>
-    <lastmod>2020-07-04T23:47:53+05:30</lastmod>
+    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://www.imkernel.dev/tags/</loc>
-    <lastmod>2020-07-04T23:47:53+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.imkernel.dev/tags/untagged/</loc>
-    <lastmod>2020-07-04T23:47:53+05:30</lastmod>
+    <lastmod>2020-07-05T18:02:48+05:30</lastmod>
   </url>
   
   <url>

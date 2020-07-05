@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alwin Doss&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 04 Jul 2020 23:47:53 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2020 18:02:48 +0530</lastBuildDate>
     
 	<atom:link href="https://www.imkernel.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>untagged</title>
-      <link>https://www.imkernel.dev/tags/untagged/</link>
-      <pubDate>Sat, 04 Jul 2020 23:47:53 +0530</pubDate>
+      <title>about</title>
+      <link>https://www.imkernel.dev/tags/about/</link>
+      <pubDate>Sun, 05 Jul 2020 18:02:48 +0530</pubDate>
       
-      <guid>https://www.imkernel.dev/tags/untagged/</guid>
+      <guid>https://www.imkernel.dev/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>me</title>
+      <link>https://www.imkernel.dev/tags/me/</link>
+      <pubDate>Sun, 05 Jul 2020 18:02:48 +0530</pubDate>
+      
+      <guid>https://www.imkernel.dev/tags/me/</guid>
       <description></description>
     </item>
     

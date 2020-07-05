@@ -6,17 +6,24 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by/3.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alwin Doss&lt;/a&gt;</copyright>
-        <lastBuildDate>Sat, 04 Jul 2020 23:47:53 +0530</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2020 18:02:48 +0530</lastBuildDate>
         <atom:link href="https://www.imkernel.dev/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>My First Post</title>
-            <link>https://www.imkernel.dev/posts/my-first-post/</link>
-            <pubDate>Sat, 04 Jul 2020 23:47:53 +0530</pubDate>
+            <title>I am a Kernel Developer</title>
+            <link>https://www.imkernel.dev/posts/about/me/</link>
+            <pubDate>Sun, 05 Jul 2020 18:02:48 +0530</pubDate>
             
-            <guid>https://www.imkernel.dev/posts/my-first-post/</guid>
-            <description></description>
-            <content type="html"><![CDATA[]]></content>
+            <guid>https://www.imkernel.dev/posts/about/me/</guid>
+            <description>I do many things like managing teams, programs but at heart I am a software engineer who always aspired to be a Kernel Developer.
+Am I a Kernel Developer now? No, not at all, not even close! The day I become a Kernel Developer is when I will reveal my true identity until such a point I would like to operate under this pseudo-name imkernel. This site is a reflection of what I want to be eventually as a programmer.</description>
+            <content type="html"><![CDATA[<p>I do many things like managing teams, programs but at heart I am a software engineer who always aspired to be a Kernel Developer.</p>
+<p>Am I a Kernel Developer now? No, not at all, not even close!
+The day I become a Kernel Developer is when I will reveal my true identity until such a point I would like to operate under this pseudo-name <code>imkernel</code>. This <a href="https://www.imkernel.dev">site</a> is a reflection of what I want to be eventually as a programmer.</p>
+<p>Whenever I lauch this website I want to remind myself that I am a Kernel Developer and I truly believe that when I do that I will focus my attention on what I want to be and will be that one day.</p>
+<p>I have chosen FreeBSD as the OS of choice to learn Operating Systems or to even contribute to. Currently I am learning about the Operating Systems by reading this book <a href="https://en.wikipedia.org/wiki/Operating_Systems:_Design_and_Implementation">Operating Systems: Design and Implementation</a> by <a href="https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum">Andrew S. Tanenbaum</a></p>
+<p>If you have any suggestions or comments do reach out to me on all the social media platforms. You can find the link to them in the footer if I am not wrong</p>
+]]></content>
         </item>
         
     </channel>
